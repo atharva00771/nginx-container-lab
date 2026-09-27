@@ -1,0 +1,8 @@
+docker --version
+docker run hello-world
+docker images
+docker pull nginx
+docker images
+docker run -d nginx
+docker ps
+docker ps -a
